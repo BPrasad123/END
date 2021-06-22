@@ -19,4 +19,7 @@ GPT3 or the END of NLP as we know it! An extensive NLP program from [https://the
 12. Transformers with Linear Attention
 13. HandsOn Training 4
 14. GloVe, Memory Networks and Recap
-15. Infinity Capstone Project
+15. Infinity Capstone Project  
+
+
+**Note: Enrolled for the Program again and projects will be updated as we progress starting early August.**
